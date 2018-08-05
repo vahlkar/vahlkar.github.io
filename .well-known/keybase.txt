@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/vahlkar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.laniel.xyz
+  * I am vahlkar (https://keybase.io/vahlkar) on keybase.
+  * I have a public key ASAu-DPgmoUE2AVBYSrzvEOllH6y1RTwdJvYavzQgC3mbAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202ef833e09a8504d80541612af3bc43a5947eb2d514f0749bd86afcd0802de66c0a",
+      "host": "keybase.io",
+      "kid": "01202ef833e09a8504d80541612af3bc43a5947eb2d514f0749bd86afcd0802de66c0a",
+      "uid": "b3409a10ff076848b2ea2c8f000cee19",
+      "username": "vahlkar"
+    },
+    "merkle_root": {
+      "ctime": 1533482061,
+      "hash": "3165dad4b9f79fb64ddee291434d929c7cd011c694b3906ea6ee274bf8168846f56100f7e0e5db395a94ab925977e6b1758c16608da526575c9f5e2019d2d02a",
+      "hash_meta": "07b64b9d4f1ec574133a9604a4e48f1c17176c6d937b3aa86d72aa325869fb21",
+      "seqno": 3410419
+    },
+    "service": {
+      "entropy": "xRTPlXRV7pDvGeTAL1+p19zV",
+      "hostname": "www.laniel.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1533482542,
+  "expire_in": 504576000,
+  "prev": "63339b8d98ff1c55563080f06fb72c0b98dba28a19ec364dbc6ead78feea50bb",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLvgz4JqFBNgFQWEq87xDpZR+stUU8HSb2Gr80IAt5mwKp3BheWxvYWTESpcCD8QgYzObjZj/HFVWMIDwb7csC5jboooZ7DZNvG6teP7qULvEIC7Wu5yVdBIw+7feAB0uz+gBeXVhNQnqG1T30cOuUTWcAgHCo3NpZ8RABcH8AXGyjhpJMZwZVj8vLlseDPC1Yko3rwGsYH7LVBWKGD/A7G6UHUh4T+z5w6ZjH8vRgsUTExZ2yZo3j60FCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKaooQZViM4LGLSM6QFpKRVFI7n/Io7AuIgH4ozAiQaxo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vahlkar
+
+==================================================================
