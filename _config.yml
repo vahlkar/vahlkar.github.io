@@ -1,1 +1,53 @@
-uni/_config.yml
+# Your Name or Company
+title: Volodia Laniel
+
+# Description of your website. This is used for social sharing.
+description:  Website of Volodia Laniel.
+
+# A brief blurb about yourself
+content:
+  - I am Assistant Manager in the Cyber Risk Services team of Deloitte
+    Switzerland with more than three years of practice as application security
+    expert.
+  - Through my engagements I gained experience in manual and automated
+    penetration testing of web and mobile applications, static source code
+    analysis, reporting of security vulnerabilities and project management. As
+    part of my engineering and MSc studies I worked on software development and
+    on various fields of IT security such as attacking and securing networks
+    and operating systems, forensic analysis, cryptography and reverse
+    engineering.
+  - I successfully managed and delivered several application security projects
+    for global clients from the finance and insurance industries.
+
+# Add your social links
+social:
+  - platform: linkedin
+    url: https://linkedin.com/in/vlaniel/?locale=en_US
+  - platform: keybase
+    url: https://keybase.io/vahlkar
+  - platform: github
+    url: https://github.com/vahlkar
+  - platform: twitter
+    url: https://twitter.com/vahlkar
+
+# General settings
+url: https://laniel.eu/
+baseurl: "/"
+markdown: kramdown
+# sharing_image: share.jpg
+# google_analytics: "UA-58263416-1" # google analytics tracking
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center
+
+# Submodule configuration
+destination: _site/
+layouts_dir: uni/_layouts/
+includes_dir: uni/_includes/
+exclude:
+  - uni/
