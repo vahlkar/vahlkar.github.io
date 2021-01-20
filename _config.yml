@@ -35,7 +35,7 @@ url: https://laniel.eu/
 baseurl: "/"
 markdown: kramdown
 # sharing_image: share.jpg
-# google_analytics: "UA-58263416-1" # google analytics tracking
+google_analytics: "G-LK64HZXGBN" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
 
