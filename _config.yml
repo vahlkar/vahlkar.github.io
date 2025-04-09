@@ -2,32 +2,30 @@
 title: Volodia Laniel
 
 # Description of your website. This is used for social sharing.
-description:  Website of Volodia Laniel.
+description: Volodia Laniel | Penetration Tester
 
 # A brief blurb about yourself
 content:
-  - I am Manager in the Cyber Risk Services team of Deloitte Switzerland with
-    more than five years of practice as application security expert.
-  - Through my engagements I gained experience in manual and automated
-    penetration testing of web, mobile and thick client applications, static
+  - I am a Penetration Tester at UBS, previously Manager in Cyber at Deloitte
+    Switzerland with several years of practice as application security expert.
+  - I have experience in manual and automated penetration testing of web,
+    mobile and thick client applications, infrastructure components, static
     source code analysis, reporting of security vulnerabilities and project
     management. As part of my engineering and MSc studies I worked on software
     development and on various fields of IT security such as attacking and
     securing networks and operating systems, forensic analysis, cryptography
     and reverse engineering.
-  - I successfully managed and delivered several application security projects
-    for global clients from the finance and insurance industries.
 
 # Add your social links
 social:
   - platform: linkedin
     url: https://linkedin.com/in/vlaniel/?locale=en_US
-  - platform: keybase
-    url: https://keybase.io/vahlkar
   - platform: github
     url: https://github.com/vahlkar
-  - platform: twitter
-    url: https://twitter.com/vahlkar
+  - platform: mastodon
+    url: https://infosec.exchange/@vahlkar
+  - platform: keybase
+    url: https://keybase.io/vahlkar
 
 # General settings
 url: https://laniel.eu/
